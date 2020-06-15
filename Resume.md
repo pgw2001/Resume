@@ -2,4 +2,4 @@
 ---
 ![이력서 사진](notebook.jpg)
 
-<img src="/path/to/notebook.jpg" width="450px" height="450px">
+<img src="/path/to/jpg.jpg" width="450px" height="450px">
