@@ -28,3 +28,7 @@
 |c프로그래밍|c 언어 개요|3|
 |java 프로그래밍|java 개요|3|
 |소프트웨어세미나1|최신 소프트웨어 트렌드|3|
+
+github address : [pgw2001][github]
+
+[github]:http://github.com/pgw2001
