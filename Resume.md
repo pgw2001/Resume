@@ -1,5 +1,9 @@
 # 한림대학교 소프트웨어융합대학
 ---
-![이력서 사진](notebook.jpg)
-
 <img src=notebook.jpg width=150 height=150>
+박건웅
+
+---
+
+소속 : 소프트웨어융합대학 
+전공 : 스마트 IoT 전공
